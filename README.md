@@ -12,6 +12,9 @@ In this version, you control a person using your keyboard's `Spacebar` or any ke
 3. The longer you survive, the higher your score.
 4. Try to beat your high score each time!
 
+## 🌐 Play Live
+You can play the game live here: [Life Is Bamboo](https://samio11.github.io/Life_Is_Bamboo/)
+
 ## 🌟 Features
 - **Custom person Image**: Your own image (e.g., `m2.png`) replaces the default person character.
 - **Custom Bamboo Pipes**: Use a beautiful bamboo image (e.g., `m3.png`) as the pipes.
