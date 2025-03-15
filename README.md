@@ -18,7 +18,11 @@ In this version, you control a person using your keyboard's `Spacebar` or any ke
 - **Scoring System**: Each pipe that passes increases your score.
 - **Local Storage**: Your highest score is saved and displayed.
 - **Easy to Play**: Adjustable gravity and pipe speed for a smooth experience.
-  
+
+## 🌟 Gameplay
+
+https://github.com/user-attachments/assets/6dc75f6b-2ba6-4d6c-8440-58f63e041ff7
+
 
 ## ⚙️ Setup
 
